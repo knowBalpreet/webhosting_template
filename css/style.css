@@ -11,6 +11,10 @@ section{
 	overflow:auto;
 }
 
+.feature-list{
+	list-style: none;
+}
+
 .jumbotron{
 	background: #bf5a16;
 }
